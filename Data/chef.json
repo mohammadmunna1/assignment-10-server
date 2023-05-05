@@ -9,12 +9,12 @@
       "recipes": [
         {
           "_id":11,
-          "name": "Spaghetti Carbonara",
+          "name": " Carbonara",
           "ingredients": [
             "spaghetti",
             "pancetta",
             "eggs",
-            "Parmesan cheese",
+            " cheese",
             "black pepper"
           ],
           "cooking_method": "Cook the spaghetti in a large pot of salted boiling water until al dente. In a large skillet, cook the pancetta until crisp. In a bowl, whisk together the eggs, Parmesan cheese, and black pepper. Drain the spaghetti, reserving some of the pasta water. Add the spaghetti to the skillet with the pancetta and toss to coat. Remove from heat and add the egg mixture, stirring quickly to combine. If the pasta seems dry, add some of the reserved pasta water.",
@@ -23,7 +23,7 @@
 
         {
           "_id":12,
-          "name": "Margherita Pizza",
+          "name": " Pizza",
           "ingredients": [
             "pizza dough",
             "tomato sauce",
@@ -55,15 +55,15 @@
 
     {
       "id": 2,
-      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",    
-      "name": "Sofia Bianchi",
-      "years_of_experience": 10,
-      "likes": 950,
-      "description": "Sofia Bianchi is a master of regional Italian cuisine. She draws inspiration from her childhood memories of her grandmother's cooking and has dedicated her career to preserving traditional recipes and techniques. Her passion for using fresh, locally-sourced ingredients is evident in every dish she creates.",
+      "picture": "https://im.indiatimes.in/photogallery/2015/Mar/1935820_1437682849.jpg",    
+      "name": "Raxen",
+      "years_of_experience": 5,
+      "likes": 1700,
+      "description": "Raxen is a master of regional Italian cuisine. She draws inspiration from her childhood memories of her grandmother's cooking and has dedicated her career to preserving traditional recipes and techniques. Her passion for using fresh, locally-sourced ingredients is evident in every dish she creates.",
       "recipes": [
         {
           "_id":21,
-          "name": "Pesto Pasta",
+          "name": " Pasta",
           "ingredients": [
             "pasta",
             "basil",
@@ -109,11 +109,11 @@
 
     {
       "id": 3,
-      "picture": "https://img.freepik.com/free-photo/female-cook-showing-heart-gesture-uniform-apron-looking-happy-front-view_176474-62886.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
-      "name": "Isabella Conti",
-      "years_of_experience": 18,
-      "likes": 1380,
-      "description": "Isabella Conti is a rising star of the Italian food scene. Her fresh, inventive dishes are quickly gaining her a reputation as one of the most exciting young chefs in the country. She draws inspiration from her travels around the world, infusing her cooking with global flavors and techniques.",
+      "picture": "https://cdn.newswire.com/files/x/10/12/cc5afa8e5528a0e25f83a3d42991.jpg",
+      "name": "Josh",
+      "years_of_experience": 3,
+      "likes": 1000,
+      "description": "Josh is a rising star of the Italian food scene. Her fresh, inventive dishes are quickly gaining her a reputation as one of the most exciting young chefs in the country. She draws inspiration from her travels around the world, infusing her cooking with global flavors and techniques.",
       "recipes": [
         {
           "_id":31,
@@ -162,11 +162,11 @@
 
     {
       "id": 4,
-      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-cap-holding-bowl-with-smile-green-wall_140725-26376.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
-      "name": "Caterina Moretti",
-      "years_of_experience": 13,
-      "likes": 1152,
-      "description": "Caterina Moretti is a specialist in Italian desserts. Her mouth-watering creations are as beautiful as they are delicious, and she is known for her meticulous attention to detail. Her desserts are a must-try for anyone with a sweet tooth, and her restaurant is a popular destination for those seeking the perfect end to their meal.",
+      "picture": "https://kyodo-pr.com/wp-content/uploads/2020/03/Professional-Chef-Plating-Gourmet-Dish-1135382312_3869x2579.jpeg",
+      "name": "Professor",
+      "years_of_experience": 9,
+      "likes": 3000,
+      "description": "Professor is a specialist in Italian desserts. Her mouth-watering creations are as beautiful as they are delicious, and she is known for her meticulous attention to detail. Her desserts are a must-try for anyone with a sweet tooth, and her restaurant is a popular destination for those seeking the perfect end to their meal.",
       "recipes": [
         {
           "_id":41,
@@ -221,11 +221,11 @@
 
     {
       "id": 5,
-      "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
-      "name": "Marco Rossi",
+      "picture": "https://thumbs.dreamstime.com/b/chef-prepare-food-fire-kitchen-restaurant-wok-cook-male-uniform-hold-professional-186986009.jpg",
+      "name": "Proxy",
       "years_of_experience": 15,
       "likes": 1768,
-      "description": "Marco Rossi is renowned for his creative take on classic Italian dishes. His innovative approach to cooking has earned him multiple Michelin stars, and his restaurant is a must-visit for foodies seeking a truly unforgettable dining experience.",
+      "description": "Proxy is renowned for his creative take on classic Italian dishes. His innovative approach to cooking has earned him multiple Michelin stars, and his restaurant is a must-visit for foodies seeking a truly unforgettable dining experience.",
       "recipes": [
         {
           "_id":51,
@@ -274,14 +274,14 @@
 
 
 
-    
+
     {
       "id": 6,
-      "picture": "https://img.freepik.com/premium-photo/asian-male-chef-yellow_296537-1161.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
-      "name": "Giovanni Ferrari",
-      "years_of_experience": 16,
-      "likes": 1451,
-      "description": "Giovanni Ferrari is a master of rustic Italian cuisine. His hearty, comforting dishes are the epitome of traditional Italian cooking, and he is known for his passion for using only the freshest, highest-quality ingredients. His restaurant is a favorite among locals and tourists alike.",
+      "picture": "https://th.bing.com/th/id/OIP.82ckSggLj7bkCiSf5xPAsAHaLH?pid=ImgDet&w=681&h=1022&rs=1",
+      "name": "Berbens",
+      "years_of_experience": 5,
+      "likes": 2500,
+      "description": "Berbens is a master of rustic Italian cuisine. His hearty, comforting dishes are the epitome of traditional Italian cooking, and he is known for his passion for using only the freshest, highest-quality ingredients. His restaurant is a favorite among locals and tourists alike.",
       "recipes": [
         {
           "_id":61,
