@@ -1,11 +1,11 @@
 [
     {
       "id": 1,
-      "picture": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",
-      "name": "Giovanni Rossi",
-      "years_of_experience": 15,
-      "likes": 1350,
-      "description": "Giovanni is a passionate chef who has been cooking Italian food for over 15 years. He loves experimenting with new ingredients and techniques to create unique and delicious dishes.",
+      "picture": "https://images-na.ssl-images-amazon.com/images/S/amzn-author-media-prod/8mtcjcm6cjb6v8t5hpkmj7ekfq._SY300_.jpg",
+      "name": "Fred",
+      "years_of_experience": 10,
+      "likes": 14500,
+      "description": "Fred is a passionate chef who has been cooking Italian food for over 15 years. He loves experimenting with new ingredients and techniques to create unique and delicious dishes.",
       "recipes": [
         {
           "_id":11,
@@ -20,6 +20,7 @@
           "cooking_method": "Cook the spaghetti in a large pot of salted boiling water until al dente. In a large skillet, cook the pancetta until crisp. In a bowl, whisk together the eggs, Parmesan cheese, and black pepper. Drain the spaghetti, reserving some of the pasta water. Add the spaghetti to the skillet with the pancetta and toss to coat. Remove from heat and add the egg mixture, stirring quickly to combine. If the pasta seems dry, add some of the reserved pasta water.",
           "rating": 4.5
         },
+
         {
           "_id":12,
           "name": "Margherita Pizza",
@@ -48,6 +49,10 @@
         }
       ]
     },
+
+
+
+
     {
       "id": 2,
       "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",    
@@ -97,6 +102,11 @@
         }
       ]
     },
+
+
+
+
+
     {
       "id": 3,
       "picture": "https://img.freepik.com/free-photo/female-cook-showing-heart-gesture-uniform-apron-looking-happy-front-view_176474-62886.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
@@ -146,6 +156,10 @@
         }
       ]
     },
+
+
+
+
     {
       "id": 4,
       "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-cap-holding-bowl-with-smile-green-wall_140725-26376.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
@@ -200,6 +214,11 @@
         }
       ]
     },
+
+
+
+
+
     {
       "id": 5,
       "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
@@ -251,6 +270,11 @@
         }
       ]
     },
+
+
+
+
+    
     {
       "id": 6,
       "picture": "https://img.freepik.com/premium-photo/asian-male-chef-yellow_296537-1161.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
